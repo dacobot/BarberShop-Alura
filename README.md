@@ -4,4 +4,4 @@ Proyecto realizado en el curso <<HTML5 y CSS3 parte 1: Mi primera página web>>
 Curso realizado en mayo 2023.
 Oracle ONE Next Education
 
-https://dacobot.github.io/BarberShop-Alura/index.html
+https://dacobot.github.io/BarberShop-Alura/
